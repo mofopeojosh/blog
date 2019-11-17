@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/blog-gatsby.iml" filepath="$PROJECT_DIR$/.idea/blog-gatsby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blog-strapi-api/.idea/blog-strapi-api.iml" filepath="$PROJECT_DIR$/../blog-strapi-api/.idea/blog-strapi-api.iml" />
     </modules>
   </component>
 </project>
