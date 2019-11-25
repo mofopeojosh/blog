@@ -25,8 +25,8 @@ const ViewArticle = ({data}) => (
 
 export default ViewArticle;
 
-export const query = graphql`
-  query ArticleTemplate($id: String!) {
+export const pageQuery = graphql`
+  query ArticleTemplate($id: String) {
     strapiArticle(id: {eq: $id}) {
       title
       content
