@@ -81,9 +81,10 @@ body {
 
 .blog-view-wrapper {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .blog-view-body {
-    margin: 30px 4rem;
+    margin: 30px 2rem;
 }
 

@@ -12,7 +12,7 @@ const Header = ({showBackButton}) => (
         { showBackButton ?
         <div>
             <br/>
-            <Link to="/" style={{textDecoration: 'none'}}>&larr; Back Home</Link>
+            <Link to="/" style={{textDecoration: 'none'}}> {`<`} Back home</Link>
         </div> : '' }
     </header>
 )
